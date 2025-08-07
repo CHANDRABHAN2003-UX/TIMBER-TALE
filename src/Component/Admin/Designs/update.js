@@ -1,0 +1,1 @@
+console.log("waise hi koi kaam ka nhi hai")
